@@ -1,4 +1,4 @@
 require_relative student.rb
 
-class ChattyStudent < student
+class ChattyStudent < Student
 end
